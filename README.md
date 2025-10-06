@@ -1,6 +1,6 @@
 # DTU Blog - A University Community Platform 🚀
 
-![DTU Blog Showcase](./Pictures/2.png)
+![DTU Blog Showcase](./Pictures/1.png)
 
 A full-stack, feature-rich blogging platform designed for the Delhi Technological University (DTU) community. This application enables students, faculty, and alumni to connect, share knowledge, and engage in meaningful discussions in a dedicated academic environment.
 
