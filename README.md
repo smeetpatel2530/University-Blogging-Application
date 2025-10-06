@@ -4,7 +4,7 @@
 
 A full-stack, feature-rich blogging platform designed for the Delhi Technological University (DTU) community. This application enables students, faculty, and alumni to connect, share knowledge, and engage in meaningful discussions in a dedicated academic environment.
 
-**Live Demo:** [Link to your deployed application] `(If you don't have one, you can remove this line)`
+
 
 ## ✨ Key Features
 
