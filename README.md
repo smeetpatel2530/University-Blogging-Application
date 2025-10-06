@@ -1,10 +1,10 @@
 # DTU Blog - A University Community Platform 🚀
 
-![DTU Blog Showcase](https://i.imgur.com/G5g2mJc.png)
+![DTU Blog Showcase](./Pictures/2.png)
 
 A full-stack, feature-rich blogging platform designed for the Delhi Technological University (DTU) community. This application enables students, faculty, and alumni to connect, share knowledge, and engage in meaningful discussions in a dedicated academic environment.
 
-
+**Live Demo:** [Link to your deployed application] `(If you don't have one, you can remove this line)`
 
 ## ✨ Key Features
 
@@ -33,11 +33,11 @@ This project is divided into two separate repositories:
 
 ## 📸 Screenshots
 
-| Login Page                                     | Home Page                                         |
-| ---------------------------------------------- | ------------------------------------------------- |
-| ![Login Page](https://i.imgur.com/9G82h2U.png)  | ![Home Page](https://i.imgur.com/Kj7sO1b.png)     |
+| Login Page                               | Home Page                                  |
+| ---------------------------------------- | ------------------------------------------ |
+| ![Login Page](./Pictures/4.png)          | ![Home Page](./Pictures/1.png)             |
 | **Post Creation** | **Feed with Comments** |
-| ![Create Post](https://i.imgur.com/sYtB9Ue.png) | ![Feed with Comments](https://i.imgur.com/mO3hV9W.png) |
+| ![Create Post](./Pictures/5.png)         | ![Feed with Comments](./Pictures/7.png)    |
 
 ## 🛠️ Local Setup and Installation
 
