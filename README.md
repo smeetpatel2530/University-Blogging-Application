@@ -30,6 +30,7 @@ This project is divided into two separate repositories:
 
 -   🔗 **Frontend Code:** [https://github.com/smeetpatel2530/University-Blogging-Application---frontend](https://github.com/smeetpatel2530/University-Blogging-Application---frontend)
 -   🔗 **Backend Code:** [https://github.com/smeetpatel2530/University-Blogging-Application---backend](https://github.com/smeetpatel2530/University-Blogging-Application---backend)
+-   🔗 **Video LINK:** [Drive Link](https://drive.google.com/file/d/1IC0P3DJjkhp2IY-hU6gkoOXOXTmyqsnE/view?usp=sharing)
 
 ## 📸 Screenshots
 
